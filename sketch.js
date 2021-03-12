@@ -16,7 +16,7 @@ fill(0)
 noStroke(255)
 
 rect(100,100,100,500)
-ellipse(260,230,250,250)
+
 fill(255)
 ellipse(260,230,75,75)
 
