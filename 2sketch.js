@@ -1,4 +1,4 @@
-function setup() { 
+function setup{} {
 var c = createCanvas(700,700); //width and height in pixels
 background(255);
 //rect(0,0,1000,1000)
@@ -37,30 +37,12 @@ function mousePressed() {
 
 
 
-//var i = 0;
-//while(i<10) {
-	//add code here
 
-	//ellipse(10*i,10*i,250,250)
-
-	//i=i+i;
-
-
-	noFill();
-
-	for (i=0;i<500;i=i+10) {
-
-		ellipse(200+i,200,350,350)
-
-		ellipse(200+i,800,350,350)
+	}
 
 
 
 
 
 
-
-
-
-
-//}
+}
